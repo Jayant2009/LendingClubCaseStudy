@@ -29,7 +29,7 @@ Higher interest rates are associated with a higher probability of default. Borro
 
 - Key Risk Indicators
 
-  The analysis identified critical factors that predict loan defaults, helping Lending Club enhance its loan approval process to minimize defaults while ensuring creditworthy applicants are approved.
+The analysis identified critical factors that predict loan defaults, helping Lending Club enhance its loan approval process to minimize defaults while ensuring creditworthy applicants are approved.
 
 - Income and Loan Amounts
 
