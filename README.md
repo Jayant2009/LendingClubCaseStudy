@@ -18,10 +18,24 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
+- Employment Length and Default Risk:
+
+Borrowers with shorter employment lengths (less than 1 year) are more likely to default on their loans compared to those with longer employment histories. This indicates that employment stability is a critical factor in determining a borrower’s ability to repay a loan.
+
+- Interest Rates and Default Rates:
+  
+Higher interest rates are associated with a higher probability of default. Borrowers who are charged higher interest rates are more likely to struggle with repayments, leading to an increased default rate.
+
+- Key Risk Indicators
+
+  The analysis identified critical factors that predict loan defaults, helping Lending Club enhance its loan approval process to minimize defaults while ensuring creditworthy applicants are approved.
+
+- Income and Loan Amounts
+
+ There is a direct correlation between a borrower's income and the loan amount they receive, with higher incomes associated with larger loans. This insight helps in understanding borrower behavior and setting loan limits.
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -37,13 +51,13 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by existing digital lending platform,
+- References: google, anaconda.com,upgrad 
+- This project was based on EDA for [Lending club case study] on Upgrad.
 
 
 ## Contact
-Created by [@Jayant2009] - feel free to contact me!
+Created by [@Jayant2009] and  [Saurabh Rai]- feel free to contact us!
 
 
 <!-- Optional -->
