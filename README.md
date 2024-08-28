@@ -10,12 +10,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Club, a peer-to-peer lending platform, is confronted with the challenge of optimizing its loan approval process to balance profit and risk effectively. The company needs to accurately identify which loan applicants are likely to default, as these defaults can lead to significant financial losses. Simultaneously, Lending Club must avoid rejecting creditworthy applicants who can contribute to the company’s revenue through timely loan repayments.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The goal of this analysis is to assist Lending Club in refining its loan approval process by identifying key indicators of loan default. By understanding these risk factors, the company can make more informed decisions, reducing the likelihood of approving loans that may result in defaults and financial losses.
+
+- The dataset on which we are working on is Loan.csv. It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
 
 ## Conclusions
 
